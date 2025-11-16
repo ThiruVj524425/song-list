@@ -42,6 +42,3 @@ app-example
 /ios
 /android
 .vercel
-
-# Not using index.js for serverless deployment
-index.js

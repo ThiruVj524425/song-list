@@ -3,7 +3,14 @@
     "allow": [
       "Bash(node index.js:*)",
       "Bash(curl:*)",
-      "Bash(vercel project:*)"
+      "Bash(vercel project:*)",
+      "Bash(vercel logs:*)",
+      "Bash(npm install)",
+      "Bash(git rm:*)",
+      "Bash(vercel --prod:*)",
+      "Bash(vercel inspect:*)",
+      "Bash(cat:*)",
+      "Bash(git restore:*)"
     ],
     "deny": [],
     "ask": []
