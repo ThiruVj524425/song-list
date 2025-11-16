@@ -1,14 +1,9 @@
 {
   "name": "musicapi",
   "version": "1.0.0",
-  "description": "A simple REST API for serving music data with pagination support",
+  "description": "A serverless REST API for serving music data with pagination support",
   "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "node index.js"
-  },
-  "keywords": ["music", "api", "rest", "express"],
+  "keywords": ["music", "api", "rest", "serverless", "vercel"],
   "author": "",
   "license": "MIT",
   "dependencies": {
