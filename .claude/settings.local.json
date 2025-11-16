@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node index.js:*)",
+      "Bash(curl:*)",
+      "Bash(vercel project:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,171 @@
+[
+    { "id": 1, "title": "Midnight Echoes", "artist": "Arun Dev", "thumbnail": "https://via.placeholder.com/100", "album": "Nightfall Harmony", "duration": 241000, "price": 1.29, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", "releaseDate": "2023-01-12T07:00:00Z", "genre": "Pop" },
+    { "id": 2, "title": "Waves of Serenity", "artist": "Latha Meera", "thumbnail": "https://via.placeholder.com/100", "album": "Ocean Dreams", "duration": 198000, "price": 0.99, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3", "releaseDate": "2022-11-02T07:00:00Z", "genre": "Ambient" },
+    { "id": 3, "title": "Golden Horizon", "artist": "Kabir Rao", "thumbnail": "https://via.placeholder.com/100", "album": "Sunset Diaries", "duration": 265000, "price": 1.49, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3", "releaseDate": "2021-06-22T07:00:00Z", "genre": "Indie" },
+    { "id": 4, "title": "Silent Whispers", "artist": "Maya Krish", "thumbnail": "https://via.placeholder.com/100", "album": "Calm Minds", "duration": 212000, "price": 1.19, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3", "releaseDate": "2023-03-19T07:00:00Z", "genre": "Soft Rock" },
+    { "id": 5, "title": "Retro Nights", "artist": "Dev Dixit", "thumbnail": "https://via.placeholder.com/100", "album": "Vintage Vibes", "duration": 251000, "price": 1.39, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3", "releaseDate": "2020-12-14T07:00:00Z", "genre": "Retro" },
+
+    { "id": 6, "title": "Skyline Drift", "artist": "Ravi Kumar", "thumbnail": "https://via.placeholder.com/100", "album": "City Lights", "duration": 282000, "price": 1.29, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3", "releaseDate": "2023-07-11T07:00:00Z", "genre": "Hip Hop" },
+    { "id": 7, "title": "Endless Journey", "artist": "Neha Varma", "thumbnail": "https://via.placeholder.com/100", "album": "Wanderlust", "duration": 225000, "price": 0.89, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3", "releaseDate": "2021-10-09T07:00:00Z", "genre": "Travel" },
+    { "id": 8, "title": "Crystal Dreams", "artist": "Anjana Sen", "thumbnail": "https://via.placeholder.com/100", "album": "Moonlit Trails", "duration": 207000, "price": 1.09, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-9s.mp3", "releaseDate": "2020-05-04T07:00:00Z", "genre": "Chill" },
+
+    { "id": 9, "title": "Thunder Road", "artist": "Akhil Nair", "thumbnail": "https://via.placeholder.com/100", "album": "Storm Runner", "duration": 304000, "price": 1.59, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3", "releaseDate": "2023-09-17T07:00:00Z", "genre": "Rock" },
+    { "id": 10, "title": "Dreamcatcher", "artist": "Ishita Das", "thumbnail": "https://via.placeholder.com/100", "album": "Northern Lights", "duration": 199000, "price": 1.29, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3", "releaseDate": "2022-02-21T07:00:00Z", "genre": "Electronic" },
+
+    { "id": 11, "title": "Spirit of Dawn", "artist": "Rithvik Sai", "thumbnail": "https://via.placeholder.com/100", "album": "Sunrise Anthem", "duration": 178000, "price": 0.79, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-20s.mp3", "releaseDate": "2021-03-11T07:00:00Z", "genre": "Instrumental" },
+    { "id": 12, "title": "Galaxy Spark", "artist": "Anand Iyer", "thumbnail": "https://via.placeholder.com/100", "album": "Star Trails", "duration": 302000, "price": 1.49, "previewUrl": "https://sample-videos.com/audio/mp3/wave.mp3", "releaseDate": "2020-08-10T07:00:00Z", "genre": "EDM" },
+    { "id": 13, "title": "Whispering Pines", "artist": "Reema Sethi", "thumbnail": "https://via.placeholder.com/100", "album": "Forest Heart", "duration": 260000, "price": 1.29, "previewUrl": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3", "releaseDate": "2023-04-05T07:00:00Z", "genre": "Nature" },
+
+    { "id": 14, "title": "Voices of Time", "artist": "Sanjay Kulkarni", "thumbnail": "https://via.placeholder.com/100", "album": "Clockwork Beats", "duration": 284000, "price": 1.59, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3", "releaseDate": "2022-12-12T07:00:00Z", "genre": "Techno" },
+    { "id": 15, "title": "Desert Bloom", "artist": "Hina Noor", "thumbnail": "https://via.placeholder.com/100", "album": "Sahara Stories", "duration": 232000, "price": 1.19, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3", "releaseDate": "2021-01-03T07:00:00Z", "genre": "World" },
+
+    { "id": 16, "title": "Frozen Memories", "artist": "Vivaan Menon", "thumbnail": "https://via.placeholder.com/100", "album": "Winter Echo", "duration": 249000, "price": 0.99, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3", "releaseDate": "2020-09-22T07:00:00Z", "genre": "Ambient" },
+    { "id": 17, "title": "City Pulse", "artist": "Nikita Shah", "thumbnail": "https://via.placeholder.com/100", "album": "Urban Rhythms", "duration": 197000, "price": 1.29, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3", "releaseDate": "2023-03-07T07:00:00Z", "genre": "Electronic" },
+
+{ "id": 18, "title": "Shattered Mornings", "artist": "Karan Oberoi", "thumbnail": "https://via.placeholder.com/100", "album": "Breaking Dawn", "duration": 189000, "price": 0.99, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3", "releaseDate": "2021-05-19T07:00:00Z", "genre": "Acoustic" },
+    { "id": 19, "title": "Emerald Waves", "artist": "Rhea Solanki", "thumbnail": "https://via.placeholder.com/100", "album": "Coral Reef", "duration": 244000, "price": 1.09, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3", "releaseDate": "2023-06-14T07:00:00Z", "genre": "Chill" },
+    { "id": 20, "title": "Shadow Runner", "artist": "Naveen Paul", "thumbnail": "https://via.placeholder.com/100", "album": "Dark Streets", "duration": 268000, "price": 1.49, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3", "releaseDate": "2020-02-25T07:00:00Z", "genre": "Synthwave" },
+
+    { "id": 21, "title": "Hidden Galaxy", "artist": "Samaira Nair", "thumbnail": "https://via.placeholder.com/100", "album": "Star Odyssey", "duration": 230000, "price": 1.29, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3", "releaseDate": "2022-10-11T07:00:00Z", "genre": "EDM" },
+    { "id": 22, "title": "Velvet Raindrops", "artist": "Imran Siddiqui", "thumbnail": "https://via.placeholder.com/100", "album": "Cloud Burst", "duration": 201000, "price": 0.99, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-9s.mp3", "releaseDate": "2021-11-08T07:00:00Z", "genre": "LoFi" },
+    { "id": 23, "title": "Cinder Flames", "artist": "Yashwant Patil", "thumbnail": "https://via.placeholder.com/100", "album": "Inferno", "duration": 285000, "price": 1.59, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3", "releaseDate": "2023-05-03T07:00:00Z", "genre": "Metal" },
+    { "id": 24, "title": "Infinite Stars", "artist": "Shristi Kaul", "thumbnail": "https://via.placeholder.com/100", "album": "Cosmic Dreams", "duration": 237000, "price": 1.39, "previewUrl": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3", "releaseDate": "2020-04-14T07:00:00Z", "genre": "Space" },
+
+    { "id": 25, "title": "Crystal Sparks", "artist": "Ashwin Menon", "thumbnail": "https://via.placeholder.com/100", "album": "Diamond Lights", "duration": 216000, "price": 1.19, "previewUrl": "https://sample-videos.com/audio/mp3/wave.mp3", "releaseDate": "2023-02-27T07:00:00Z", "genre": "Electronic" },
+    { "id": 26, "title": "Broken Lanterns", "artist": "Tanvi Sharma", "thumbnail": "https://via.placeholder.com/100", "album": "Temple Roads", "duration": 277000, "price": 1.59, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-20s.mp3", "releaseDate": "2022-08-29T07:00:00Z", "genre": "Fusion" },
+    { "id": 27, "title": "Dusty Footprints", "artist": "Harsh Vardhan", "thumbnail": "https://via.placeholder.com/100", "album": "Old Trails", "duration": 205000, "price": 1.09, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3", "releaseDate": "2021-03-13T07:00:00Z", "genre": "Folk" },
+
+    { "id": 28, "title": "Golden Skies", "artist": "Kriti Pandey", "thumbnail": "https://via.placeholder.com/100", "album": "Sunrise Melody", "duration": 251000, "price": 1.49, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3", "releaseDate": "2020-01-19T07:00:00Z", "genre": "Pop" },
+    { "id": 29, "title": "Snowfall Stories", "artist": "Rohit Balan", "thumbnail": "https://via.placeholder.com/100", "album": "Winter Lights", "duration": 232000, "price": 1.29, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3", "releaseDate": "2023-06-18T07:00:00Z", "genre": "Ambient" },
+    { "id": 30, "title": "Rising Sun", "artist": "Meher Ali", "thumbnail": "https://via.placeholder.com/100", "album": "New Beginnings", "duration": 209000, "price": 0.89, "previewUrl": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3", "releaseDate": "2022-07-22T07:00:00Z", "genre": "Indie" },
+
+    { "id": 31, "title": "Lost Empire", "artist": "Jai Kapoor", "thumbnail": "https://via.placeholder.com/100", "album": "Ancient Secrets", "duration": 271000, "price": 1.19, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3", "releaseDate": "2021-09-29T07:00:00Z", "genre": "Epic" },
+    { "id": 32, "title": "Ocean Run", "artist": "Simran Kaur", "thumbnail": "https://via.placeholder.com/100", "album": "Blue Horizon", "duration": 226000, "price": 0.99, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3", "releaseDate": "2020-06-11T07:00:00Z", "genre": "Chill" },
+    { "id": 33, "title": "Whirlwind", "artist": "Aditya Iyer", "thumbnail": "https://via.placeholder.com/100", "album": "Stormborn", "duration": 300000, "price": 1.59, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-9s.mp3", "releaseDate": "2023-03-15T07:00:00Z", "genre": "Rock" },
+
+    { "id": 34, "title": "Fire and Ice", "artist": "Aarohi Jain", "thumbnail": "https://via.placeholder.com/100", "album": "Dual Nature", "duration": 244000, "price": 1.39, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3", "releaseDate": "2022-09-10T07:00:00Z", "genre": "Alternative" },
+    { "id": 35, "title": "Distant Shores", "artist": "Zara Ansari", "thumbnail": "https://via.placeholder.com/100", "album": "Sea Breeze", "duration": 199000, "price": 1.19, "previewUrl": "https://sample-videos.com/audio/mp3/wave.mp3", "releaseDate": "2021-02-12T07:00:00Z", "genre": "Soft Rock" },
+
+    { "id": 36, "title": "Cosmic Whisper", "artist": "Rishabh Sen", "thumbnail": "https://via.placeholder.com/100", "album": "Star Path", "duration": 215000, "price": 1.49, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3", "releaseDate": "2020-12-21T07:00:00Z", "genre": "Electronic" },
+    { "id": 37, "title": "Neon River", "artist": "Aditi Shetty", "thumbnail": "https://via.placeholder.com/100", "album": "City Dreams", "duration": 206000, "price": 0.79, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3", "releaseDate": "2023-08-15T07:00:00Z", "genre": "Chillwave" },
+    { "id": 38, "title": "Silver Leaves", "artist": "Krishna Rao", "thumbnail": "https://via.placeholder.com/100", "album": "Autumn Spirit", "duration": 231000, "price": 1.09, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3", "releaseDate": "2021-05-06T07:00:00Z", "genre": "Acoustic" },
+
+    { "id": 39, "title": "Blue Velvet", "artist": "Naina Thomas", "thumbnail": "https://via.placeholder.com/100", "album": "Soft Touch", "duration": 265000, "price": 1.29, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-20s.mp3", "releaseDate": "2022-07-16T07:00:00Z", "genre": "Jazz" },
+    { "id": 40, "title": "Flight of Hope", "artist": "Sudeep Rana", "thumbnail": "https://via.placeholder.com/100", "album": "Freedom", "duration": 246000, "price": 1.19, "previewUrl": "https://sample-videos.com/audio/mp3/wave.mp3", "releaseDate": "2020-11-20T07:00:00Z", "genre": "Pop" },
+
+    { "id": 41, "title": "Parallel Dreams", "artist": "Athira Das", "thumbnail": "https://via.placeholder.com/100", "album": "Dreamlight", "duration": 208000, "price": 1.09, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-9s.mp3", "releaseDate": "2023-09-11T07:00:00Z", "genre": "Chill" },
+    { "id": 42, "title": "Orbiting Life", "artist": "Farhan Khan", "thumbnail": "https://via.placeholder.com/100", "album": "Space Pulse", "duration": 280000, "price": 1.49, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3", "releaseDate": "2022-01-28T07:00:00Z", "genre": "EDM" },
+    { "id": 43, "title": "Highland Winds", "artist": "Priya Mistry", "thumbnail": "https://via.placeholder.com/100", "album": "Mountain Heart", "duration": 224000, "price": 0.99, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3", "releaseDate": "2021-04-17T07:00:00Z", "genre": "Folk" },
+
+    { "id": 44, "title": "Frozen Echo", "artist": "Rahul Jadhav", "thumbnail": "https://via.placeholder.com/100", "album": "Ice World", "duration": 273000, "price": 1.39, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3", "releaseDate": "2020-08-05T07:00:00Z", "genre": "Ambient" },
+
+    { "id": 45, "title": "Rolling Clouds", "artist": "Anika Verma", "thumbnail": "https://via.placeholder.com/100", "album": "Sky Dance", "duration": 214000, "price": 1.29, "previewUrl": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3", "releaseDate": "2022-06-02T07:00:00Z", "genre": "Soft Rock" },
+
+    { "id": 46, "title": "River of Time", "artist": "Ronit Sinha", "thumbnail": "https://via.placeholder.com/100", "album": "Flow", "duration": 259000, "price": 1.49, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3", "releaseDate": "2021-08-12T07:00:00Z", "genre": "Indie" },
+
+    { "id": 47, "title": "Broken Feathers", "artist": "Jhanvi Singh", "thumbnail": "https://via.placeholder.com/100", "album": "Wingless", "duration": 203000, "price": 0.79, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3", "releaseDate": "2023-01-05T07:00:00Z", "genre": "Acoustic" },
+
+    { "id": 48, "title": "Solar Rush", "artist": "Harish Patel", "thumbnail": "https://via.placeholder.com/100", "album": "Sunbeam", "duration": 290000, "price": 1.59, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3", "releaseDate": "2020-02-18T07:00:00Z", "genre": "EDM" },
+
+    { "id": 49, "title": "Twilight Dance", "artist": "Shreya Dutt", "thumbnail": "https://via.placeholder.com/100", "album": "Evening Glow", "duration": 217000, "price": 0.99, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-20s.mp3", "releaseDate": "2022-09-09T07:00:00Z", "genre": "Pop" },
+
+    { "id": 50, "title": "Electric Rain", "artist": "Vikram Das", "thumbnail": "https://via.placeholder.com/100", "album": "Thunder Sparks", "duration": 264000, "price": 1.29, "previewUrl": "https://sample-videos.com/audio/mp3/wave.mp3", "releaseDate": "2021-10-28T07:00:00Z", "genre": "Electronic" },
+
+    { "id": 51, "title": "Silver Echo", "artist": "Anushka Reddy", "thumbnail": "https://via.placeholder.com/100", "album": "Echo Chamber", "duration": 243000, "price": 1.19, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-9s.mp3", "releaseDate": "2023-04-11T07:00:00Z", "genre": "Chill" },
+    { "id": 52, "title": "Night Bloom", "artist": "Sameer Lal", "thumbnail": "https://via.placeholder.com/100", "album": "Blossom", "duration": 207000, "price": 0.89, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3", "releaseDate": "2020-12-07T07:00:00Z", "genre": "LoFi" },
+    { "id": 53, "title": "Galaxy Drift", "artist": "Nishita Rao", "thumbnail": "https://via.placeholder.com/100", "album": "Asteroid Flow", "duration": 299000, "price": 1.49, "previewUrl": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3", "releaseDate": "2022-03-14T07:00:00Z", "genre": "Space" },
+
+    { "id": 54, "title": "Blue Mirage", "artist": "Sahil Kapoor", "thumbnail": "https://via.placeholder.com/100", "album": "Illusion", "duration": 226000, "price": 1.09, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3", "releaseDate": "2021-07-19T07:00:00Z", "genre": "Ambient" },
+
+    { "id": 55, "title": "Misty Forest", "artist": "Ira Thomas", "thumbnail": "https://via.placeholder.com/100", "album": "Green Dreams", "duration": 212000, "price": 0.99, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3", "releaseDate": "2023-01-09T07:00:00Z", "genre": "Nature" },
+
+    { "id": 56, "title": "Digital Storm", "artist": "Ankit Purohit", "thumbnail": "https://via.placeholder.com/100", "album": "CyberPulse", "duration": 276000, "price": 1.59, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3", "releaseDate": "2020-04-30T07:00:00Z", "genre": "Techno" },
+
+    { "id": 57, "title": "Velvet Strings", "artist": "Ritika Menon", "thumbnail": "https://via.placeholder.com/100", "album": "Classic Notes", "duration": 189000, "price": 0.79, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3", "releaseDate": "2021-02-02T07:00:00Z", "genre": "Classical" },
+
+    { "id": 58, "title": "High Tide", "artist": "Kunal Jaiswal", "thumbnail": "https://via.placeholder.com/100", "album": "Ocean Rise", "duration": 254000, "price": 1.29, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3", "releaseDate": "2022-07-21T07:00:00Z", "genre": "Soft Rock" },
+
+    { "id": 59, "title": "Golden Mirage", "artist": "Sana Yusuf", "thumbnail": "https://via.placeholder.com/100", "album": "Desert Gold", "duration": 238000, "price": 1.09, "previewUrl": "https://sample-videos.com/audio/mp3/wave.mp3", "releaseDate": "2021-10-10T07:00:00Z", "genre": "World" },
+
+    { "id": 60, "title": "Purple Sparks", "artist": "Himanshu Sen", "thumbnail": "https://via.placeholder.com/100", "album": "FireFly", "duration": 217000, "price": 0.99, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-20s.mp3", "releaseDate": "2020-08-16T07:00:00Z", "genre": "Electronic" },
+
+    { "id": 61, "title": "Silent Voyage", "artist": "Jiya Philip", "thumbnail": "https://via.placeholder.com/100", "album": "Calm Seas", "duration": 228000, "price": 1.19, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3", "releaseDate": "2023-04-05T07:00:00Z", "genre": "Relaxation" },
+
+    { "id": 62, "title": "Frostbite", "artist": "Aarav Shah", "thumbnail": "https://via.placeholder.com/100", "album": "Icy Trails", "duration": 241000, "price": 1.29, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3", "releaseDate": "2022-01-03T07:00:00Z", "genre": "Ambient" },
+
+    { "id": 63, "title": "Nebula Drift", "artist": "Zoya Khan", "thumbnail": "https://via.placeholder.com/100", "album": "Galactic Run", "duration": 277000, "price": 1.59, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3", "releaseDate": "2021-05-24T07:00:00Z", "genre": "Space" },
+
+    { "id": 64, "title": "Burning Shadows", "artist": "Gaurav Bansal", "thumbnail": "https://via.placeholder.com/100", "album": "Dark Flames", "duration": 294000, "price": 1.49, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3", "releaseDate": "2020-06-18T07:00:00Z", "genre": "Metal" },
+
+    { "id": 65, "title": "Horizon Break", "artist": "Keshav Rao", "thumbnail": "https://via.placeholder.com/100", "album": "SkyTouch", "duration": 189000, "price": 0.99, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3", "releaseDate": "2023-08-28T07:00:00Z", "genre": "Rock" },
+
+    { "id": 66, "title": "Sapphire Mist", "artist": "Amrita Sen", "thumbnail": "https://via.placeholder.com/100", "album": "Blue Kingdom", "duration": 204000, "price": 0.89, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-9s.mp3", "releaseDate": "2022-03-09T07:00:00Z", "genre": "Acoustic" },
+
+    { "id": 67, "title": "Infinite Rain", "artist": "Dhairya Patel", "thumbnail": "https://via.placeholder.com/100", "album": "Cloud Burst", "duration": 230000, "price": 1.29, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3", "releaseDate": "2021-11-15T07:00:00Z", "genre": "LoFi" },
+
+    { "id": 68, "title": "Golden Dreams", "artist": "Prisha Sharma", "thumbnail": "https://via.placeholder.com/100", "album": "SunBeam", "duration": 260000, "price": 1.49, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3", "releaseDate": "2020-09-07T07:00:00Z", "genre": "Pop" },
+
+    { "id": 69, "title": "Twisted Lights", "artist": "Parth Agrawal", "thumbnail": "https://via.placeholder.com/100", "album": "GlowStorm", "duration": 283000, "price": 1.59, "previewUrl": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3", "releaseDate": "2023-02-12T07:00:00Z", "genre": "EDM" },
+
+    { "id": 70, "title": "Shadow Drift", "artist": "Avantika Rao", "thumbnail": "https://via.placeholder.com/100", "album": "Moon Chase", "duration": 206000, "price": 1.09, "previewUrl": "https://sample-videos.com/audio/mp3/wave.mp3", "releaseDate": "2022-08-11T07:00:00Z", "genre": "Indie" },
+
+    { "id": 71, "title": "Solar Vines", "artist": "Isha Mehta", "thumbnail": "https://via.placeholder.com/100", "album": "SunRoots", "duration": 217000, "price": 0.99, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-20s.mp3", "releaseDate": "2021-03-04T07:00:00Z", "genre": "Chill" },
+
+    { "id": 72, "title": "Broken Wires", "artist": "Deepak Singh", "thumbnail": "https://via.placeholder.com/100", "album": "Circuit Fault", "duration": 231000, "price": 1.29, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3", "releaseDate": "2020-05-30T07:00:00Z", "genre": "Techno" },
+
+    { "id": 73, "title": "Paper Hearts", "artist": "Nandita Bose", "thumbnail": "https://via.placeholder.com/100", "album": "Fragile", "duration": 247000, "price": 1.39, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3", "releaseDate": "2022-10-10T07:00:00Z", "genre": "Acoustic" },
+
+    { "id": 74, "title": "Crystal Lake", "artist": "Rohit Verma", "thumbnail": "https://via.placeholder.com/100", "album": "Blue Waters", "duration": 215000, "price": 0.99, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-9s.mp3", "releaseDate": "2023-04-22T07:00:00Z", "genre": "Nature" },
+
+    { "id": 75, "title": "Desert Firefly", "artist": "Arjun Nair", "thumbnail": "https://via.placeholder.com/100", "album": "Sand Trails", "duration": 300000, "price": 1.59, "previewUrl": "https://sample-videos.com/audio/mp3/wave.mp3", "releaseDate": "2021-11-28T07:00:00Z", "genre": "World" },
+
+    { "id": 76, "title": "Orbital Dreams", "artist": "Kritika Das", "thumbnail": "https://via.placeholder.com/100", "album": "Skyline", "duration": 271000, "price": 1.29, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3", "releaseDate": "2020-07-17T07:00:00Z", "genre": "Space" },
+
+    { "id": 77, "title": "Lost Signals", "artist": "Ravina Joseph", "thumbnail": "https://via.placeholder.com/100", "album": "Broken Waves", "duration": 229000, "price": 1.19, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3", "releaseDate": "2023-09-15T07:00:00Z", "genre": "LoFi" },
+
+    { "id": 78, "title": "Infinite Loop", "artist": "Hrithik Desai", "thumbnail": "https://via.placeholder.com/100", "album": "Paradox", "duration": 254000, "price": 1.29, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-20s.mp3", "releaseDate": "2022-02-01T07:00:00Z", "genre": "Electronic" },
+
+    { "id": 79, "title": "Maple Strings", "artist": "Shraddha Pillai", "thumbnail": "https://via.placeholder.com/100", "album": "Autumn Notes", "duration": 210000, "price": 0.89, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3", "releaseDate": "2021-06-21T07:00:00Z", "genre": "Acoustic" },
+
+    { "id": 80, "title": "Deep Forest", "artist": "Gagan Yadav", "thumbnail": "https://via.placeholder.com/100", "album": "Jungle Run", "duration": 280000, "price": 1.39, "previewUrl": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3", "releaseDate": "2023-02-09T07:00:00Z", "genre": "Nature" },
+
+    { "id": 81, "title": "Electric Winds", "artist": "Aakash Singh", "thumbnail": "https://via.placeholder.com/100", "album": "Charge", "duration": 262000, "price": 1.49, "previewUrl": "https://sample-videos.com/audio/mp3/wave.mp3", "releaseDate": "2022-08-20T07:00:00Z", "genre": "EDM" },
+
+    { "id": 82, "title": "Broken Glass", "artist": "Vaishnavi Menon", "thumbnail": "https://via.placeholder.com/100", "album": "Shatter", "duration": 201000, "price": 0.79, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3", "releaseDate": "2021-03-17T07:00:00Z", "genre": "Rock" },
+
+    { "id": 83, "title": "Silent Waterfall", "artist": "Dhruv Patel", "thumbnail": "https://via.placeholder.com/100", "album": "BlueFlow", "duration": 243000, "price": 1.09, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-9s.mp3", "releaseDate": "2020-10-08T07:00:00Z", "genre": "Chill" },
+
+    { "id": 84, "title": "Glowing Sparks", "artist": "Shivani Jain", "thumbnail": "https://via.placeholder.com/100", "album": "FireStorm", "duration": 273000, "price": 1.59, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3", "releaseDate": "2023-01-30T07:00:00Z", "genre": "Electronic" },
+
+    { "id": 85, "title": "Wild Chase", "artist": "Yuvraj Rana", "thumbnail": "https://via.placeholder.com/100", "album": "Hunter", "duration": 261000, "price": 1.49, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3", "releaseDate": "2022-05-11T07:00:00Z", "genre": "Rock" },
+
+    { "id": 86, "title": "Amber Nights", "artist": "Mahima Shah", "thumbnail": "https://via.placeholder.com/100", "album": "Warm Glow", "duration": 232000, "price": 1.19, "previewUrl": "https://sample-videos.com/audio/mp3/wave.mp3", "releaseDate": "2021-12-04T07:00:00Z", "genre": "Jazz" },
+
+    { "id": 87, "title": "Eclipse Run", "artist": "Raghav Iyer", "thumbnail": "https://via.placeholder.com/100", "album": "Black Sun", "duration": 277000, "price": 1.39, "previewUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3", "releaseDate": "2020-06-14T07:00:00Z", "genre": "EDM" },
+
+    { "id": 88, "title": "Purple Breeze", "artist": "Anvi Sharma", "thumbnail": "https://via.placeholder.com/100", "album": "Evening Mist", "duration": 214000, "price": 0.89, "previewUrl": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3", "releaseDate": "2023-08-18T07:00:00Z", "genre": "Chill" },
+
+    { "id": 89, "title": "Gravity Pulse", "artist": "Kabir Khurana", "thumbnail": "https://via.placeholder.com/100", "album": "Orbital", "duration": 285000, "price": 1.59, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3", "releaseDate": "2021-04-24T07:00:00Z", "genre": "Space" },
+
+    { "id": 90, "title": "Sky Dive", "artist": "Anish Gupta", "thumbnail": "https://via.placeholder.com/100", "album": "Sky High", "duration": 219000, "price": 1.09, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-6s.mp3", "releaseDate": "2020-11-13T07:00:00Z", "genre": "Pop" },
+
+    { "id": 91, "title": "Starlit Rain", "artist": "Niharika Rao", "thumbnail": "https://via.placeholder.com/100", "album": "MoonDrops", "duration": 240000, "price": 1.29, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-9s.mp3", "releaseDate": "2022-03-28T07:00:00Z", "genre": "Electronic" },
+
+    { "id": 92, "title": "Night Circuit", "artist": "Adarsh Nair", "thumbnail": "https://via.placeholder.com/100", "album": "Neon Streets", "duration": 274000, "price": 1.49, "previewUrl": "https://sample-videos.com/audio/mp3/wave.mp3", "releaseDate": "2021-09-03T07:00:00Z", "genre": "Techno" },
+
+    { "id": 93, "title": "Ocean Drift", "artist": "Manya Kapoor", "thumbnail": "https://via.placeholder.com/100", "album": "Blue Horizon", "duration": 235000, "price": 1.19, "previewUrl": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3", "releaseDate": "2020-10-22T07:00:00Z", "genre": "Soft Rock" },
+
+    { "id": 94, "title": "Rusty Steps", "artist": "Divyam Saxena", "thumbnail": "https://via.placeholder.com/100", "album": "Old Paths", "duration": 197000, "price": 0.89, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-20s.mp3", "releaseDate": "2023-06-09T07:00:00Z", "genre": "Folk" },
+
+    { "id": 95, "title": "Infinite Sparks", "artist": "Tara Mishra", "thumbnail": "https://via.placeholder.com/100", "album": "GlowRise", "duration": 251000, "price": 1.39, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-15s.mp3", "releaseDate": "2022-11-17T07:00:00Z", "genre": "Electronic" },
+
+    { "id": 96, "title": "Lost Pages", "artist": "Harini Rao", "thumbnail": "https://via.placeholder.com/100", "album": "Diary", "duration": 219000, "price": 1.19, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-12s.mp3", "releaseDate": "2021-01-25T07:00:00Z", "genre": "Acoustic" },
+
+    { "id": 97, "title": "Broken Piano", "artist": "Vihaan Saxena", "thumbnail": "https://via.placeholder.com/100", "album": "Keys", "duration": 208000, "price": 0.99, "previewUrl": "https://sample-videos.com/audio/mp3/wave.mp3", "releaseDate": "2020-06-14T07:00:00Z", "genre": "Instrumental" },
+
+    { "id": 98, "title": "Temple Echoes", "artist": "Sharanya Devi", "thumbnail": "https://via.placeholder.com/100", "album": "Sacred Notes", "duration": 243000, "price": 1.29, "previewUrl": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3", "releaseDate": "2023-02-20T07:00:00Z", "genre": "World" },
+
+    { "id": 99, "title": "Electric Roads", "artist": "Karan Solanki", "thumbnail": "https://via.placeholder.com/100", "album": "Skyline", "duration": 274000, "price": 1.59, "previewUrl": "https://sample-videos.com/audio/mp3/crowd-cheering.mp3", "releaseDate": "2022-08-14T07:00:00Z", "genre": "Electronic" },
+
+    { "id": 100, "title": "Morning Pulse", "artist": "Sia Varma", "thumbnail": "https://via.placeholder.com/100", "album": "Sunrise", "duration": 209000, "price": 0.99, "previewUrl": "https://sample-videos.com/audio/mp3/wave.mp3", "releaseDate": "2021-12-01T07:00:00Z", "genre": "Pop" }
+  ]

@@ -1,0 +1,22 @@
+{
+  "name": "musicapi",
+  "version": "1.0.0",
+  "description": "A simple REST API for serving music data with pagination support",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["music", "api", "rest", "express"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "serverless-http": "^3.2.0"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
