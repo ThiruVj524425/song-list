@@ -1,17 +1,10 @@
 {
   "name": "musicapi",
   "version": "1.0.0",
-  "description": "A serverless REST API for serving music data with pagination support",
-  "type": "module",
-  "keywords": ["music", "api", "rest", "serverless", "vercel"],
-  "author": "",
-  "license": "MIT",
+  "description": "A serverless REST API",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "serverless-http": "^3.2.0"
-  },
-  "engines": {
-    "node": ">=18.x"
   }
 }
